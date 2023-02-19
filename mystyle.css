@@ -7,7 +7,7 @@ body {
 }
 @font-face {
     font-family: cursedTimer;
-    src: url("/home/dsouza/Desktop/JavaScript/cursed-timer-ulil-font/CursedTimerUlil-Aznm.ttf");
+    src: url("CursedTimerUlil-Aznm.ttf");
 }
 .container {
     display: flex;
